@@ -24,4 +24,4 @@ Type the command `tensorboard --logdir={name of the log directory}`.
 
 ### Saving models
 The default location of the saved model is not speficifed. 
-You could change the saved_model directory using the arguments `--model-dir={Location where you want}`.
+You could change the saved_model directory using the arguments `--model-dir {Location where you want}`.
